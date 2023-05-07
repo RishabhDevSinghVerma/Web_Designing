@@ -1,0 +1,28 @@
+
+                                               𝑾𝒉𝒂𝒕 𝒊𝒔 𝑵𝒆𝒕𝒘𝒐𝒓𝒌??
+
+A computer network is a group of computers linked to each other that enables the computer to communicate with another computer and share their resources, data, and applications.
+
+|-A computer network is mainly of four types:
+|
+|-LAN(Local Area Network)=>Local Area Network is a group of computers connected to each other in a small area such as 
+|                          building, office.
+|
+|-PAN(Personal Area Network)=>Thomas Zimmerman was the first research scientist to bring the idea of the Personal Area 
+|                              Network.Personal Area Network covers an area of 30 feet.Personal Area Network is a network 
+|                              arranged within an individual person, typically within a range of 10 meters.
+|                              Personal Area Network is used for connecting the computer devices of personal use is known 
+|                              as Personal Area Network.Personal computer devices that are used to develop the personal 
+|                              area network are the laptop, mobile phones, media player and play stations.
+|
+|-MAN(Metropolitan Area Network)=>A metropolitan area network is a network that covers a larger geographic area by 
+|                              interconnecting a different LAN to form a larger network.Government agencies use MAN to 
+|                              connect to the citizens and private industries.
+|
+|-WAN(Wide Area Network)=>A Wide Area Network is a network that extends over a large geographical area such as states or 
+|                              countries.A Wide Area Network is quite bigger network than the LAN.
+|                              A Wide Area Network is not limited to a single location, but it spans over a large 
+|                              geographical area through a telephone line, fibre optic cable or satellite links.
+|                              The internet is one of the biggest WAN in the world.A Wide Area Network is widely used in 
+|                              the field of Business, government, and education.
+
