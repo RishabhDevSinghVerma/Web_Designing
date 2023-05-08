@@ -1,3 +1,9 @@
+                                              𝑾𝒉𝒂𝒕 𝒊𝒔 𝑾𝒐𝒓𝒍𝒅 𝑾𝒊𝒅𝒆 𝑾𝒆𝒃?
+
+World Wide Web, which is also known as a Web, is a collection of websites or web pages stored in web servers and connected to local computers through the internet. These websites contain text pages, digital images, audios, videos, etc. Users can access the content of these sites from any part of the world over the internet using their devices such as computers, laptops, cell phones, etc.
+
+                                  𝑫𝒊𝒇𝒇𝒆𝒓𝒆𝒏𝒄𝒆 𝒃𝒆𝒕𝒘𝒆𝒆𝒏 𝑾𝒆𝒃𝒔𝒊𝒕𝒆𝒔 𝒂𝒏𝒅 𝑾𝒆𝒃 𝑨𝒑𝒑𝒍𝒊𝒄𝒂𝒕𝒊𝒐𝒏
+                                  
 
                                                𝑾𝒉𝒂𝒕 𝒊𝒔 𝑵𝒆𝒕𝒘𝒐𝒓𝒌??
 
@@ -26,3 +32,4 @@ A computer network is a group of computers linked to each other that enables the
 |                              The internet is one of the biggest WAN in the world.A Wide Area Network is widely used in 
 |                              the field of Business, government, and education.
 
+    
