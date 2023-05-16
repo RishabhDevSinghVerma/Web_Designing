@@ -35,3 +35,21 @@ In this code, the <label> tag associates the label "Username:" with the <input> 
 # The value for Id Attribur and For Attribute must be same because by this way we link input or label.
 # Here a placeholder is a text or a hint that is displayed inside an input field or a text area to provide the user with a brief explanation or a suggestion of what kind of information should be entered in that field.
 
+4) <button>:The <button> tag is used to create a clickable button on a web page. The <button> tag can be used to create different types of buttons, such as submit buttons, reset buttons, or just standard buttons that perform some action when clicked.
+
+                        Basic Syntax for Button tag
+
+
+         <button type="button/submit/reset">Button Text</button>
+
+                               or 
+
+            <input type="submit" value="Submit Form">
+
+A type="submit" button is a button that submits the form data to the server when clicked. This type of button is typically used as the primary button in a form.
+
+# Here value attribute of a submit button is the text that is sent to the server when the form is submitted.In this example, the submit button has a value attribute of "Submit Form". When the user clicks this button, the text "Submit Form" will be sent to the server as part of the form submission.
+
+# Here value is also decide the text which written in the button.
+
+
