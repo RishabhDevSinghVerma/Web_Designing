@@ -1,4 +1,4 @@
-                                    𝐇𝐓𝐌𝐋 𝐅𝐎𝐑𝐌𝐒
+                                         𝐇𝐓𝐌𝐋 𝐅𝐎𝐑𝐌𝐒
 
 An HTML form facilitates the user to enter data that is to be sent to the server for processing such as name, email address, password, phone number, etc.An HTML form is a section of a document which contains controls such as text fields, password fields, checkboxes, radio buttons, submit button, menus etc.
 
@@ -8,7 +8,8 @@ Basic Syntax Of Forms:-
   //input controls (Example:textfield,radio button ,text area)
 </form>
 
-Different Type of Form Tags:-
+                                   𝐃𝐢𝐟𝐟𝐞𝐫𝐞𝐧𝐭 𝐓𝐲𝐩𝐞 𝐨𝐟 𝐅𝐨𝐫𝐦 𝐓𝐚𝐠𝐬:-
+
 
 1) <form>:The <form> tag in HTML is used to create an interactive form on a web page that allows users to enter and submit data. A form is a collection of input fields, checkboxes, radio buttons, and other form controls that are used to gather data from users. When a user submits the form, the data is typically sent to a web server for processing.
 
@@ -51,5 +52,19 @@ A type="submit" button is a button that submits the form data to the server when
 # Here value attribute of a submit button is the text that is sent to the server when the form is submitted.In this example, the submit button has a value attribute of "Submit Form". When the user clicks this button, the text "Submit Form" will be sent to the server as part of the form submission.
 
 # Here value is also decide the text which written in the button.
+
+5) <select>:The <select> tag is an HTML element used to create a dropdown list or a list box. It is typically used in forms to allow users to select one or more options from a list of predefined options.
+
+                     Basic Syntax for Select Tag
+
+<select>
+  <option value="option1">Option 1</option>
+  <option value="option2">Option 2</option>
+  <option value="option3">Option 3</option>
+</select>
+
+# Here <option> tag is used to specify the available options that a user can select from the dropdown list.
+
+# In this example, the <select> element defines the dropdown list, and the <option> tags define the available options within the list. When the user clicks on the dropdown arrow, the options will be displayed in a list format, and the user can then select one of the options by clicking on it.
 
 
