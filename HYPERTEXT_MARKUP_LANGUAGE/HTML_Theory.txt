@@ -1,0 +1,52 @@
+                                       𝑾𝒉𝒂𝒕 𝒊𝒔 𝑯𝒕𝒎𝒍??
+
+Html stands for Hyper Text Markup Language its define the structure of our web page.HTML is used to create web pages and web applications.We can create a static website by HTML only.Technically, HTML is a Markup language rather than a programming language.
+
+                                         HTML(Hyper Text Markup Language)
+                               _______________________________|___________________________
+                              |                                                           |
+                        Hyper Text                                               Markup Language
+ 
+Hyper Text: HyperText simply means "Text within Text." A text has a link within it, is a hypertext. Whenever you click on a link which brings you to a new webpage, you have clicked on a hypertext. HyperText is a way to link two or more web pages (HTML documents) with each other.
+
+Markup language: A markup language is a computer language that is used to apply layout and formatting conventions to a text document. Markup language makes text more interactive and dynamic. It can turn text into images, tables, links, etc.
+
+                                              𝑩𝒂𝒔𝒊𝒄 𝑺𝒚𝒏𝒕𝒂𝒙 𝒐𝒇 𝑯𝑻𝑴𝑳
+
+
+                                  <!-- <!DOCTYPE>  
+                                        <html>  
+                                          <head>  
+                                             <title>About HTML</title>  
+                                          </head>  
+                                          <body>  
+                                             <h1>Hello Welcome,To My  Git Repository </h1>  
+                                         </body>  
+                                        </html>   -->
+
+<!DOCTYPE>: It defines the document type or it instruct the browser about the version of HTML.
+
+<html > :This tag informs the browser that it is an HTML document. Text between html tag describes the web document. It is a container for all other elements of HTML except <!DOCTYPE>
+
+<head>: It should be the first element inside the <html> element, which contains the metadata(information about the document). It must be closed before the body tag opens.
+
+<title>: As its name suggested, it is used to add title of that HTML page which appears at the top of the browser window. It must be placed inside the head tag and should close immediately. (Optional)
+
+<body> : Text between body tag describes the body content of the page that is visible to the end user. This tag contains the main content of the HTML document.
+
+                                     𝑩𝒓𝒊𝒆𝒇 𝑯𝒊𝒔𝒕𝒐𝒓𝒚 𝒐𝒇 𝑯𝑻𝑴𝑳
+In the late 1980's , a physicist, Tim Berners-Lee who was a contractor at CERN, proposed a system for CERN researchers. In 1989, he wrote a memo proposing an internet based hypertext system.
+Tim Berners-Lee is known as the father of HTML. The first available description of HTML was a document called "HTML Tags" proposed by Tim in late 1991. 
+
+                                         𝑨𝒃𝒐𝒖𝒕 𝑯𝑻𝑴𝑳5
+
+HTML5 is the newest version of HyperText Markup language. The first draft of this version was announced in January 2008. There are two major organizations one is W3C (World Wide Web Consortium), and another one is WHATWG( Web Hypertext Application Technology Working Group) which are involved in the development of HTML 5 version, and still, it is under development.
+
+features of html 5
+
+
+
+
+
+
+
