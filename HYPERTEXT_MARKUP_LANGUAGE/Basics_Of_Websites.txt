@@ -1,8 +1,14 @@
-                                             𝑾𝒉𝒂𝒕 𝒊𝒔 𝑾𝒐𝒓𝒍𝒅 𝑾𝒊𝒅𝒆 𝑾𝒆𝒃?
+                             𝑾𝒉𝒂𝒕 𝒊𝒔 𝑾𝒐𝒓𝒍𝒅 𝑾𝒊𝒅𝒆 𝑾𝒆𝒃?
 
 World Wide Web, which is also known as a Web, is a collection of websites or web pages stored in web servers and connected to local computers through the internet. These websites contain text pages, digital images, audios, videos, etc. Users can access the content of these sites from any part of the world over the internet using their devices such as computers, laptops, cell phones, etc.
 
-                                  𝑫𝒊𝒇𝒇𝒆𝒓𝒆𝒏𝒄𝒆 𝒃𝒆𝒕𝒘𝒆𝒆𝒏 𝑾𝒆𝒃𝒔𝒊𝒕𝒆𝒔 𝒂𝒏𝒅 𝑾𝒆𝒃 𝑨𝒑𝒑𝒍𝒊𝒄𝒂𝒕𝒊𝒐𝒏
+                                𝑾𝒉𝒂𝒕 𝒊𝒔 𝑰𝒏𝒕𝒆𝒓𝒏𝒆𝒕??
+
+Internet is a global network that connects billions of computers across the world with each other and to the World Wide Web or Means billions of devices are exist in interconnected form.It is also known as network of networks.
+Internet sometimes called simply "the Net" is a wordwide system of computer networks-A network of networks in which user at any one computer can,if they have permission,get information from any one computer.      
+                    
+                            
+                       𝑫𝒊𝒇𝒇𝒆𝒓𝒆𝒏𝒄𝒆 𝒃𝒆𝒕𝒘𝒆𝒆𝒏 𝑾𝒆𝒃𝒔𝒊𝒕𝒆𝒔 𝒂𝒏𝒅 𝑾𝒆𝒃 𝑨𝒑𝒑𝒍𝒊𝒄𝒂𝒕𝒊𝒐𝒏
 
 Websites: Website is a collection of related web pages that contains images, text, audio, video, etc. It can be consist of one page,two pages, and n number of pages.A website provides visual and text content that users can view and read.Website basically contains static content means the user of website only can read the content of website but not manipulate . 
 
@@ -35,10 +41,7 @@ A computer network is a group of computers linked to each other that enables the
 |                              The internet is one of the biggest WAN in the world.A Wide Area Network is widely used in 
 |                              the field of Business, government, and education.
 
-                                                𝑾𝒉𝒂𝒕 𝒊𝒔 𝑰𝒏𝒕𝒆𝒓𝒏𝒆𝒕??
-
-Internet is a global network that connects billions of computers across the world with each other and to the World Wide Web or Means billions of devices are exist in interconnected form.It is also known as network of networks.                 
-                                                 
+                                       
                                                     𝑰𝑷 𝑨𝒅𝒅𝒓𝒆𝒔𝒔  
 
 
